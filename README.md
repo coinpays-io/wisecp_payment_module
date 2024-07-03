@@ -2,7 +2,7 @@
 
 # Welcome to the WiseCP Payment Module From CoinPays!
 
-Access WiseCP via [WiseCP](https://www.wisecp.com)
+Access CoinPays WiseCP Module via [CoinPays WiseCP]([https://www.wisecp.com)](https://marketplace.wisecp.com/tr/product/coinpays-kripto-odeme-agi)
 
 ### Installation
 
